@@ -1,23 +1,23 @@
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'O que é html',
+    'É uma linguagem de marcação '
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'o que significa www?',
+    'www é a sigla para word wide web ou, em portugues, "Rede de alcance Mundial '
 )
 
 criaCartao(
     'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Quem criou o html?',
+    'Tim Berners-Lee'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'quem criou o css?',
+    'Hakon Wium Lie e Bert Boss'
 )
